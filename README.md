@@ -2,7 +2,6 @@
 
 **Course:** AAI-520 – Natural Language Processing & GenAI  
 **University:** University of San Diego  
-**Team 10:** Vikrant Tiwari (Lead), Ritesh Jain, Bhakti Kanungo
 
 ## Overview
 SmartMarketIntel is a multi-agent financial intelligence system implementing Agentic AI patterns (Prompt Chaining, Routing, Evaluator–Optimizer, Cross-Run Memory). Agents collaborate to integrate market data, news sentiment, and SEC filings into a unified analysis bundle.
