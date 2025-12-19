@@ -1,0 +1,12 @@
+```text
+pandas
+numpy
+matplotlib
+plotly
+requests
+yfinance
+langchain
+faiss-cpu
+chromadb
+python-dotenv
+tqdm
